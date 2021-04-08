@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "plugin:jest/recommended",
+    "@stockvio"
+  ],
+  "env": {
+    "jest": true
+  },
+  "plugins": [
+    "@next/eslint-plugin-next",
+    "jest"
+  ]
+}
